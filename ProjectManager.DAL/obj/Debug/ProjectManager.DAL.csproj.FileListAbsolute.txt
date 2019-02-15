@@ -1,0 +1,17 @@
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.pdb
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csproj.CoreCompileInputs.cache
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.dll
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.pdb
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll.config
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\EntityFramework.dll
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\ProjectManager.Entities.dll
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\System.Web.Http.Common.dll
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\ProjectManager.Entities.pdb
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\ProjectManager.Entities.dll.config
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\EntityFramework.xml
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\bin\Debug\System.Web.Http.Common.xml
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csprojAssemblyReference.cache
+C:\finale\ProjectManagerWebAPI\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csproj.CopyComplete
